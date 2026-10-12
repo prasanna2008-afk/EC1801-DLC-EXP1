@@ -66,8 +66,6 @@ endmodule
 
     
 ## Truth Table
- 
-<img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
 
 ## Simulation Procedure
 STEP 1 – Open Terminal
@@ -109,7 +107,7 @@ o	F
 5.	Verify that F = 1 whenever B and D are equal.
 6.	Verify that F = 0 whenever B and D are different.
 The waveform should agree with the truth table.
- <img width="1918" height="1072" alt="Screenshot 2026-09-29 203819" src="https://github.com/user-attachments/assets/7dbf1475-84a3-4d57-9e15-e805bd248b1d" />
+<img width="1906" height="1027" alt="Screenshot 2026-10-12 145947" src="https://github.com/user-attachments/assets/27c084ac-7de3-4a97-9fca-18861e4bb195" />
 
 ### Expected Result
 The Boolean function
